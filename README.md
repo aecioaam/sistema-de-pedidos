@@ -31,9 +31,15 @@ Este projeto nasceu da necessidade real de otimizar o processo de vendas de pequ
 - **Gestão de Pedidos:** Visualização dos pedidos recebidos.
 
 ## 🛠️ Tecnologias Utilizadas
-- **Front-end:** HTML5, CSS3 (Design Responsivo), JavaScript.
-- **Back-end:** [PHP ou a linguagem que você usou]
-- **Banco de Dados:** [MySQL ou o banco que você usou]
+
+- **Front-end:** React (Vite) com TypeScript
+- **Estilização:** Tailwind CSS (Design Responsivo e Moderno)
+- **Back-end (BaaS):** Supabase
+- **Banco de Dados:** PostgreSQL (Gerenciado pelo Supabase)
+- **Recursos Avançados:**
+  - **Realtime:** Atualização de pedidos em tempo real (Supabase Realtime)
+  - **Storage:** Upload e armazenamento de imagens dos produtos
+  - **Ícones:** Lucide React
 
 ## 🚀 Como Rodar Localmente (Opcional)
 Se desejar rodar o projeto na sua máquina:
