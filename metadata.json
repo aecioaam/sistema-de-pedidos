@@ -1,0 +1,5 @@
+{
+  "name": "100% funcional",
+  "description": "Um sistema completo de pedidos com cardápio, checkout passo a passo, cálculo de frete por bairro e integração com WhatsApp, além de painel administrativo.",
+  "requestFramePermissions": []
+}
